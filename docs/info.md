@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The input is a binary number from 0 to 7, the output is a signal the the corresponding address of the number
 
 ## How to test
 
-Explain how to use your project
+Input binary number and check the corresponding output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Use LEDs on each output to confirm your test
